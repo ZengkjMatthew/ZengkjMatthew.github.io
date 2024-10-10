@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kaijie Zeng's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kaijie Zeng"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ZengkjMatthew.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Signal Processing for MIMO Communication Systems."
   location         : "Changchun, Jilin Province, China"
-  employer         : 
+  employer         : "Jilin University"
   uri              : # URL
-  email            : "zengkjmatthew_2003@163.com" 
+  email            : "zengkjmatthew_2003 [AT] 163 [DOT] com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
